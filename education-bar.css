@@ -1,0 +1,20 @@
+.education-bar {
+    width: 800px;
+    border: 2px solid grey;
+    background-color: #fff;
+    margin: 20px;
+}
+.education-header {
+    background-color: rgb(20, 22, 22);
+    color: white;
+    padding: 20px;
+    height: 25px;
+    font-size: 20px;
+}
+.educationnn {
+    padding: 10px;
+    margin: 10px;
+}
+.dates {
+    color: grey;
+}
